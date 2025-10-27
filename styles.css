@@ -1,0 +1,32 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    background-color: #5f666b;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #dee2e6;
+}
+
+.form-control {
+    max-width: 100%;
+}
+
+h2 {
+    margin-top: 2rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.carousel-item {
+    text-align: center;
+    font-weight: 600;
+    color: #212529;
+}
+
+.list-group-item {
+    text-decoration: underline;
+}
